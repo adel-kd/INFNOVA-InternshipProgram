@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+
+/* You can define your brand colors directly in CSS variables now! */
+@theme {
+  --color-brand-orange: #F95A2C;
+  --color-brand-dark: #0B0E14;
+  --font-inter: "Inter", sans-serif;
+}

@@ -1,0 +1,30 @@
+html {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  background-color: #F95A2C;
+  color: white;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #F95A2C;
+}
+
+/* Base transitions for all links and buttons */
+a, button {
+  transition: all 0.2s ease-in-out;
+}
