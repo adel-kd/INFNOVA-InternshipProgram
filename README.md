@@ -28,7 +28,7 @@ A modern, responsive course platform built for the INFNOVA Academy internship.
 
 1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/adel-kd/INFNOVA-InternshipProgram.git)
+   git clone https://github.com/adel-kd/INFNOVA-InternshipProgram.git
 
   2. **Install dependencies::** 
 
@@ -37,4 +37,5 @@ A modern, responsive course platform built for the INFNOVA Academy internship.
   3. **Run the development server ::** 
 
     npm run dev
+
 
